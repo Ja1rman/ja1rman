@@ -20,7 +20,7 @@ Fan of Golang😎. Genius of Python🤔. Connoisseur of C/C++🤯. Prisoner of J
 - [x] watched all seasons of South Park
 - [x] live in Russia
 - [x] listen to Slava KPSS
-
+ 
 <p align="center">
   <img src="https://github.com/Ja1rman/ja1rman/assets/49319500/b597ec51-39e2-415a-82ee-3e124639d0a8">
 </p>
