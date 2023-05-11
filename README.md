@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ![Без имени-1](https://github.com/Ja1rman/ja1rman/assets/49319500/814bff1d-1804-4da5-bc9b-dca5d6848ea4)
+<p align="center">
+  <img src="https://github.com/Ja1rman/ja1rman/assets/49319500/814bff1d-1804-4da5-bc9b-dca5d6848ea4">
+</p>
