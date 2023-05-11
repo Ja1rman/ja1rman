@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello everyone 👋
 
-## Languages:
+### Languages:
 Fan of Golang😎. Genius of Python🤔. Connoisseur of C/C++🤯. Prisoner of Java😭.
 
 
