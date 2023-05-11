@@ -1,5 +1,12 @@
 ### Hello everyone 👋
 
+## About Me
+
+### Projects:
+1. Real developer of https://mcbrawl.ru (2022-x)
+2. Creator of trading bot to Steam(2019-2020)
+3. Creator of genius stat site https://github.com/Ja1rman/steaminfo-site (2019)
+
 ### Languages:
 Fan of Golang😎. Genius of Python🤔. Connoisseur of C/C++🤯. Prisoner of Java😭.
 
