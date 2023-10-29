@@ -1,7 +1,7 @@
 ### Hello everyone 👋
 
 <p align="left"> 
-  <img src=https://komarev.com/ghpvc/?username=Ja1rman&color=C70039&label=PROFILE+VIEWS alt=Ja1rman/>  
+  <img src=https://komarev.com/ghpvc/?username=Ja1rman&color=FF00FF&label=PROFILE+VIEWS alt=Ja1rman/>  
 </p>
 
 ## About Me
