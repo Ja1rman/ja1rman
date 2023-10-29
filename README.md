@@ -1,5 +1,9 @@
 ### Hello everyone 👋
 
+<p align="left"> 
+  <img src=https://komarev.com/ghpvc/?username=Ja1rman&color=C70039&label=PROFILE+VIEWS alt=Ja1rman/>  
+</p>
+
 ## About Me
 
 ### Projects:
