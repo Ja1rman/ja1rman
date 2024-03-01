@@ -1,8 +1,14 @@
+
+<div align="center">
+  <img src="https://github.com/Ja1rman/ja1rman/assets/49319500/c961a925-1503-41e3-8dff-a6b8e257ca32">
+</div>
+
 ### Hello everyone 👋
 
-<p align="left"> 
+<div align="left"> 
   <img src=https://komarev.com/ghpvc/?username=Ja1rman&color=FF00FF&label=PROFILE+VIEWS alt=Ja1rman/>  
-</p>
+</div>
+
 
 ## About Me
 
@@ -15,16 +21,9 @@
 
 ### Languages:
 Fan of Golang😎. Genius of Python🤔. Connoisseur of C/C++🤯. Prisoner of Java😭.
-
-<br>
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja1rman&layout=compact&theme=radical&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ja1rman&layout=compact&theme=radical&hide=jupyter%20notebook,html>
 </div>
-<br>
-
-<p align="center">
-  <img src="https://github.com/Ja1rman/ja1rman/assets/49319500/c961a925-1503-41e3-8dff-a6b8e257ca32">
-</p>
 
 #
 
