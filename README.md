@@ -7,7 +7,7 @@
 ## About Me
 
 ### Projects:
-1. Real developer of play.mcbrawl.ru Minecraft server (2022-x)
+1. Real developer of play.mcbrawl.ru Minecraft server (2022)
 2. Creator of trading bot to Steam(2019-2020)
 3. Creator of genius stat site https://github.com/Ja1rman/steaminfo-site (2019)
 
