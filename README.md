@@ -11,14 +11,22 @@
 2. Creator of trading bot to Steam(2019-2020)
 3. Creator of genius stat site https://github.com/Ja1rman/steaminfo-site (2019)
 
+# 
+
 ### Languages:
 Fan of Golang😎. Genius of Python🤔. Connoisseur of C/C++🤯. Prisoner of Java😭.
 
-
+<br>
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja1rman&layout=compact&theme=radical&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<br>
 
 <p align="center">
   <img src="https://github.com/Ja1rman/ja1rman/assets/49319500/c961a925-1503-41e3-8dff-a6b8e257ca32">
 </p>
+
+#
 
 ### BIG Facts:
 - [x] watched all seasons of South Park
